@@ -1,0 +1,40 @@
+{
+	"__metadata": {
+		"id": "5013ff8b-305e-4953-807b-9a7e33d5105e",
+		"publisherDisplayName": "u29dc",
+		"publisherId": "4dd20bb1-ef4e-469f-8817-6dbe8f2b00d0"
+	},
+	"author": {
+		"name": "iinfin",
+		"url": "https://iinf.in"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [{
+				"label": "mno drk",
+				"path": "./themes/drk.json",
+				"uiTheme": "vs-dark"
+			},
+			{
+				"label": "mno lht",
+				"path": "./themes/lht.json",
+				"uiTheme": "vs"
+			}
+		]
+	},
+	"description": "⧜",
+	"displayName": "mno",
+	"engines": {
+		"vscode": "^1.20.0"
+	},
+	"icon": "icon.png",
+	"name": "mno",
+	"publisher": "u29dc",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/u29dc"
+	},
+	"version": "0.0.80"
+}
