@@ -8,6 +8,9 @@
 		"name": "iinfin",
 		"url": "https://iinf.in"
 	},
+	"bugs": {
+		"url": "https://github.com/u29dc/mno/issues"
+	},
 	"categories": [
 		"Themes"
 	],
@@ -30,11 +33,12 @@
 		"vscode": "^1.20.0"
 	},
 	"icon": "icon.png",
+	"license": "Public Domain",
 	"name": "mno",
 	"publisher": "u29dc",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/u29dc"
+		"url": "https://github.com/u29dc/mno"
 	},
-	"version": "0.0.80"
+	"version": "1.0.0"
 }
